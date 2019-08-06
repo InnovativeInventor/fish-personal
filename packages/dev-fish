@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/InnovativeInventor/dev-fish 
+maintainer = Maxwell Fan theinnovativeinventor@gmail.com 
+description = A personal fish repository with my preferred shortcuts (and modern tooling).  
